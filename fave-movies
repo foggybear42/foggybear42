@@ -1,0 +1,1109 @@
+<!--hi hope you have fun snooping around in my code-->
+<!DOCTYPE html>
+<html lang="en-CA">
+  <head>
+    <link rel="icon" href="images/graphics/pixels+favicons/tv2.gif">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>movies &lt;3</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+      
+      <div id="container"><div id="header"></div>
+        <div id="headerArea">
+          
+          <nav id="navbar" style="margin-bottom: 10px;"><ul>
+            <li><a href="home" title="the metaphorical foyer of my site">[home]</a></li>
+            <li><a href="about-me" title="learn a little about me!">[about me]</a></li>
+            <li><a href="graphics" title="i love graphics sm">[graphics collection]</a></li>
+            <li><a href="coolsites" title="check out some other cool places on the web!">[cool sites]</a></li>
+            <li><a href="siteinfo" title="some general info about the site if youre nosey">[site info]</a></li>
+          </ul></nav></div>
+          
+          <div id="flex">
+            
+            <main>
+                
+                <h1>my fave movies !!</h1>
+                
+                <p>i'm an <a href="https://letterboxd.com/foggybear42" target="blank" title="click to check out my profile!!" class="outlink">avid letterboxd user</a>. sorry. movies with a star next to the title are in my top 4!! all info is taken from letterboxd and imdb, and the age ratings are for canada</p>
+                
+                <table>
+                  <tr>
+                    <td>
+                      <img src="images/movies/3men.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: 3 Men and a Baby
+                      <br><b>Release Year</b>: 1987
+                      <br><b>Tagline</b>: <font size="-1px">"THEY CHANGED HER DIAPERS. SHE CHANGED THEIR LIVES."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd review</summary>
+                            <indent>03/01/24 - i fucking love this movie</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/americanpsycho.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: American Psycho
+                      <br><b>Release Year</b>: 2000
+                      <br><b>Tagline</b>: <font size="-1px">"I THINK MY MASK OF SANITY IS ABOUT TO SLIP."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 4.5 - <img src="images/stars/fourhalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/arthur.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Arthur Christmas
+                      <br><b>Release Year</b>: 2011
+                      <br><b>Tagline</b>: <font size="-1px">"ALL ELF BREAKS LOOSE"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/austin.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Austin Powers: International Man of Mystery
+                      <br><b>Release Year</b>: 1997
+                      <br><b>Tagline</b>: <font size="-1px">"IF HE WERE ANY COOLER, HE’D STILL BE FROZEN, BABY!"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd review</summary>
+                            <indent>⟳ 05/30/24 - i was originally gonna rate this as a 4 star, but who am i kidding</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/batmanforever.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Batman Forever
+                      <br><b>Release Year</b>: 1995
+                      <br><b>Tagline</b>: <font size="-1px">"COURAGE NOW, TRUTH ALWAYS…"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/beetlejuice.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Beetlejuice
+                      <br><b>Release Year</b>: 1988
+                      <br><b>Tagline</b>: <font size="-1px">"HE’S GUARANTEED TO PUT SOME LIFE IN YOUR AFTERLIFE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/bighero6.jpeg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Big Hero 6
+                      <br><b>Release Year</b>: 2014
+                      <br><b>Tagline</b>: <font size="-1px">N/A</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/billandted.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Bill & Ted’s Excellent Adventure
+                      <br><b>Release Year</b>: 1989
+                      <br><b>Tagline</b>: <font size="-1px">"HISTORY IS ABOUT TO BE REWRITTEN BY TWO GUYS WHO CAN’T SPELL."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/bodies.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Bodies Bodies Bodies
+                      <br><b>Release Year</b>: 2022
+                      <br><b>Tagline</b>: <font size="-1px">"THIS IS NOT A SAFE SPACE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/breakfastclub.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Breakfast Club
+                      <br><b>Release Year</b>: 1985
+                      <br><b>Tagline</b>: <font size="-1px">"THEY ONLY MET ONCE, BUT IT CHANGED THEIR LIVES FOREVER."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/cloudy.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Cloudy with a Chance of Meatballs
+                      <br><b>Release Year</b>: 2009
+                      <br><b>Tagline</b>: <font size="-1px">"PREPARE TO GET SERVED."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/clue.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Clue <img src="images/stars/starfull.png" style="height:16px;vertical-align:middle;">
+                      <br><b>Release Year</b>: 1985
+                      <br><b>Tagline</b>: <font size="-1px">"SEVEN SUSPECTS, SIX WEAPONS, FIVE BODIES AND THREE ENDINGS."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd review</summary>
+                            <indent>⟳ 02/19/24 - i fucking love this movie sm dude. THAT MOTHERFUCKER IS NOT STRAIGHT !!! /hj</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/darkknight.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Dark Knight
+                      <br><b>Release Year</b>: 2008
+                      <br><b>Tagline</b>: <font size="-1px">"WHY SO SERIOUS?"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 4.5 - <img src="images/stars/fourhalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/deadpool.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Deadpool
+                      <br><b>Release Year</b>: 2016
+                      <br><b>Tagline</b>: <font size="-1px">"WITNESS THE BEGINNING OF A HAPPY ENDING"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/deadpool2.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Deadpool 2
+                      <br><b>Release Year</b>: 2018
+                      <br><b>Tagline</b>: <font size="-1px">"PREPARE FOR THE SECOND COMING."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 4.5 - <img src="images/stars/fourhalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/deadpoolwolverine.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Deadpool & Wolverine
+                      <br><b>Release Year</b>: 2024
+                      <br><b>Tagline</b>: <font size="-1px">"COME TOGETHER."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd reviews</summary>
+                            <indent>07/31/24 - wouldve been straighter for them to have had actual sex</indent>
+                            <br><indent>⟳ 08/03/24 - still so good. caught some stuff this time that i missed last time</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/dm3.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Despicable Me 3
+                      <br><b>Release Year</b>: 2017
+                      <br><b>Tagline</b>: <font size="-1px">"OH BROTHER."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/eeaao.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Everything Everywhere All at Once <img src="images/stars/starfull.png" style="height:16px;vertical-align:middle;">
+                      <br><b>Release Year</b>: 2022
+                      <br><b>Tagline</b>: <font size="-1px">"THE UNIVERSE IS SO MUCH BIGGER THAN YOU REALIZE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/fan4.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Fantastic Four
+                      <br><b>Release Year</b>: 2005
+                      <br><b>Tagline</b>: <font size="-1px">"4 TIMES THE ACTION. 4 TIMES THE ADVENTURE. 4 TIMES THE FANTASTIC."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 3.0 - <img src="images/stars/three.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/fresh.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Fresh
+                      <br><b>Release Year</b>: 2022
+                      <br><b>Tagline</b>: <font size="-1px">"IT’S NOT FOR EVERYONE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/frozen.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Frozen
+                      <br><b>Release Year</b>: 2013
+                      <br><b>Tagline</b>: <font size="-1px">"ONLY THE ACT OF TRUE LOVE WILL THAW A FROZEN HEART."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/glassonion.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Glass Onion
+                      <br><b>Release Year</b>: 2022
+                      <br><b>Tagline</b>: <font size="-1px">"WHEN THE GAME ENDS, THE MYSTERY BEGINS."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/budapest.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Grand Budapest Hotel
+                      <br><b>Release Year</b>: 2014
+                      <br><b>Tagline</b>: <font size="-1px">N/A</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 3.0 - <img src="images/stars/three.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/hotfuzz.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Hot Fuzz
+                      <br><b>Release Year</b>: 2007
+                      <br><b>Tagline</b>: <font size="-1px">"BIG COPS. SMALL TOWN. MODERATE VIOLENCE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/httyd.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: How to Train Your Dragon
+                      <br><b>Release Year</b>: 2010
+                      <br><b>Tagline</b>: <font size="-1px">"ONE ADVENTURE WILL CHANGE TWO WORLDS"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/httyd2.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: How to Train Your Dragon 2
+                      <br><b>Release Year</b>: 2014
+                      <br><b>Tagline</b>: <font size="-1px">"THE TRAINING IS OVER."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/incredibles.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Incredibles
+                      <br><b>Release Year</b>: 2004
+                      <br><b>Tagline</b>: <font size="-1px">"NO GUT, NO GLORY"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/jennifer.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Jennifer’s Body
+                      <br><b>Release Year</b>: 2009
+                      <br><b>Tagline</b>: <font size="-1px">"SHE’S EVIL… AND NOT JUST HIGH SCHOOL EVIL"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/kingsman.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Kingsman: The Secret Service
+                      <br><b>Release Year</b>: 2014
+                      <br><b>Tagline</b>: <font size="-1px">"MANNERS MAKETH MAN."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/legobatman.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Lego Batman Movie
+                      <br><b>Release Year</b>: 2017
+                      <br><b>Tagline</b>: <font size="-1px">"ALWAYS BE YOURSELF. UNLESS YOU CAN BE BATMAN."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/lego.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Lego Movie
+                      <br><b>Release Year</b>: 2014
+                      <br><b>Tagline</b>: <font size="-1px">"THE STORY OF A NOBODY WHO SAVED EVERYBODY."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/legoninjago.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Lego Ninjago Movie
+                      <br><b>Release Year</b>: 2017
+                      <br><b>Tagline</b>: <font size="-1px">"FIND YOUR INNER PIECE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/sunshine.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Little Miss Sunshine <img src="images/stars/starfull.png" style="height:16px;vertical-align:middle;">
+                      <br><b>Release Year</b>: 2006
+                      <br><b>Tagline</b>: <font size="-1px">"A FAMILY ON THE VERGE OF A BREAKDOWN"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd review</summary>
+                            <indent>⟳ 04/13/22 - genuinely one of my favourite movies</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/midsommar.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Midsommar
+                      <br><b>Release Year</b>: 2019
+                      <br><b>Tagline</b>: <font size="-1px">"LET THE FESTIVITIES BEGIN."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 4.5 - <img src="images/stars/fourhalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/dynamite.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Napoleon Dynamite <img src="images/stars/starfull.png" style="height:16px;vertical-align:middle;">
+                      <br><b>Release Year</b>: 2004
+                      <br><b>Tagline</b>: <font size="-1px">"HE’S OUT TO PROVE HE’S GOT NOTHING TO PROVE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd review</summary>
+                            <indent>07/11/24 - this movie was so insane i loved this sm</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/niceguys.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Nice Guys
+                      <br><b>Release Year</b>: 2016
+                      <br><b>Tagline</b>: <font size="-1px">"PRIVATE DICKS"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd reviews</summary>
+                            <indent>02/17/24 - this movie was so fucking good wtf. might rewatch it rn</indent>
+                            <br><indent>⟳ 06/23/24 - ryan rosling rly looks like a wet cat for most of this movie</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/elm.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: A Nightmare on Elm Street Part 2: Freddy’s Revenge
+                      <br><b>Release Year</b>: 1985
+                      <br><b>Tagline</b>: <font size="-1px">"SOMEONE IS COMING BACK TO ELM STREET!"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="r">R</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd review</summary>
+                            <indent>10/17/22 - my favourite part is when freddy noclips through the bushes</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/nysm.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Now You See Me
+                      <br><b>Release Year</b>: 2013
+                      <br><b>Tagline</b>: <font size="-1px">"...NOW YOU DON'T"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/nysm2.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Now You See Me 2
+                      <br><b>Release Year</b>: 2016
+                      <br><b>Tagline</b>: <font size="-1px">"YOU HAVEN’T SEEN ANYTHING YET"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 3.0 - <img src="images/stars/three.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/pacrim.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Pacific Rim
+                      <br><b>Release Year</b>: 2013
+                      <br><b>Tagline</b>: <font size="-1px">"TO FIGHT MONSTERS, WE CREATED MONSTERS"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 3.0 - <img src="images/stars/three.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd review</summary>
+                            <indent>04/13/22 - everytime newt, hermann, or a kaiju was on screen i was having The Best Time but i spent the rest of the movie just waiting for them to come back</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/parenttrap.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Parent Trap
+                      <br><b>Release Year</b>: 1998
+                      <br><b>Tagline</b>: <font size="-1px">"TWICE THE FUN, DOUBLE THE TROUBLE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/princessbride.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Princess Bride
+                      <br><b>Release Year</b>: 1987
+                      <br><b>Tagline</b>: <font size="-1px">"IT’S AS REAL AS THE FEELINGS YOU FEEL."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/ratatouille.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Ratatouille
+                      <br><b>Release Year</b>: 2007
+                      <br><b>Tagline</b>: <font size="-1px">"HE’S DYING TO BECOME A CHEF."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/rockyhorror.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Rocky Horror Picture Show
+                      <br><b>Release Year</b>: 1975
+                      <br><b>Tagline</b>: <font size="-1px">"A DIFFERENT SET OF JAWS"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 3.0 - <img src="images/stars/three.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd review</summary>
+                            <indent>08/03/22 - i absolutely love movies that make no fucking sense after the 5 minute mark</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/saw.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Saw
+                      <br><b>Release Year</b>: 2004
+                      <br><b>Tagline</b>: <font size="-1px">"LIVE OR DIE. MAKE YOUR CHOICE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/scottpilgrim.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Scott Pilgrim vs. the World
+                      <br><b>Release Year</b>: 2010
+                      <br><b>Tagline</b>: <font size="-1px">"AN EPIC OF EPIC EPICNESS."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/scream.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Scream
+                      <br><b>Release Year</b>: 1996
+                      <br><b>Tagline</b>: <font size="-1px">"SOMEONE HAS TAKEN THEIR LOVE OF SCARY MOVIES ONE STEP TOO FAR."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/shaun.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Shaun of the Dead
+                      <br><b>Release Year</b>: 2004
+                      <br><b>Tagline</b>: <font size="-1px">"A ROMANTIC COMEDY. WITH ZOMBIES."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/sp.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: South Park: Bigger, Longer & Uncut
+                      <br><b>Release Year</b>: 1999
+                      <br><b>Tagline</b>: <font size="-1px">"UH-OH."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/spider.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Spider-Man: Into the Spider-Verse
+                      <br><b>Release Year</b>: 2018
+                      <br><b>Tagline</b>: <font size="-1px">"MORE THAN ONE WEARS THE MASK."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/spongebob.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The SpongeBob SquarePants Movie
+                      <br><b>Release Year</b>: 2004
+                      <br><b>Tagline</b>: <font size="-1px">"BIGGER. BETTER. MORE ABSORBENT."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 4.5 - <img src="images/stars/fourhalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/thing.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The Thing
+                      <br><b>Release Year</b>: 1982
+                      <br><b>Tagline</b>: <font size="-1px">"MAN IS THE WARMEST PLACE TO HIDE."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 3.0 - <img src="images/stars/three.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/theend.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: This Is the End
+                      <br><b>Release Year</b>: 2013
+                      <br><b>Tagline</b>: <font size="-1px">"NOTHING RUINS A PARTY LIKE THE END OF THE WORLD."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="eight">18A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/threemen.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Three Wise Men and a Baby
+                      <br><b>Release Year</b>: 2021
+                      <br><b>Tagline</b>: <font size="-1px">"ALL IS NOT CALM"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">TV-G</font>
+                      <br><b>Star Rating</b>: 3.0 - <img src="images/stars/three.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/turningred.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Turning Red
+                      <br><b>Release Year</b>: 2022
+                      <br><b>Tagline</b>: <font size="-1px">"GROWING UP IS A BEAST."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/wwdits.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: What We Do in the Shadows
+                      <br><b>Release Year</b>: 2014
+                      <br><b>Tagline</b>: <font size="-1px">"SOME INTERVIEWS WITH SOME VAMPIRES"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14+</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          <details><summary>my letterboxd reviews</summary>
+                            <indent>⟳ 04/27/22 - rewatched this. still love it.</indent>
+                          </details>
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/rogerrabbit.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Who Framed Roger Rabbit
+                      <br><b>Release Year</b>: 1988
+                      <br><b>Tagline</b>: <font size="-1px">"JEEPERS! LOOK WHO'S RETURNING TO THEATERS LIKE NEVER BEFORE?"</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/worldsend.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: The World’s End
+                      <br><b>Release Year</b>: 2013
+                      <br><b>Tagline</b>: <font size="-1px">"GOOD FOOD. FINE ALES. TOTAL ANNIHILATION."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="four">14A</font>
+                      <br><b>Star Rating</b>: 5.0 - <img src="images/stars/five.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/wreckitralph.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Wreck-It Ralph
+                      <br><b>Release Year</b>: 2012
+                      <br><b>Tagline</b>: <font size="-1px">"THE STORY OF A REGULAR GUY JUST LOOKING FOR A LITTLE WRECK-OGNITION."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="g">G</font>
+                      <br><b>Star Rating</b>: 3.5 - <img src="images/stars/threehalf.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <img src="images/movies/zoo.jpg" id="movie">
+                    </td>
+                    <td id="info">
+                      <b>Title</b>: Zoolander
+                      <br><b>Release Year</b>: 2001
+                      <br><b>Tagline</b>: <font size="-1px">"3% BODY FAT. 1% BRAIN ACTIVITY."</font>
+                      <br><b>Age Rating</b>: <font size="-2px" id="pg">PG</font>
+                      <br><b>Star Rating</b>: 4.0 - <img src="images/stars/four.png" style="height:16px;vertical-align:middle;">
+                      <br><b>My Thoughts</b>:
+                        <div id="thoughts">
+                          TBA
+                        </div>
+                    </td>
+                  </tr>
+                </table>
+                
+            </main>
+            
+          </div>
+          
+          <footer id="footer" style="margin-top: 10px;">created and run by <a href="about-me">spencer</a> || 2023 - forever || powered by <a href="https://neocities.org" target="_blank" class="outlink">neocities</a></footer>
+          
+        </div>
+<style>
+indent{
+  margin-left:10px;
+}
+
+#r {
+  color:black;
+  padding:1.5px 3px 2px 3px;
+  border-radius:5px;
+  vertical-align:middle;
+  background-color:crimson;
+}
+
+#eight {
+  color:black;
+  padding:1.5px 3px 2px 3px;
+  border-radius:5px;
+  vertical-align:middle;
+  background-color:tomato;
+}
+
+#four {
+  color:black;
+  padding:1.5px 3px 2px 3px;
+  border-radius:5px;
+  vertical-align:middle;
+  background-color:gold;
+}
+
+#pg {
+  color:black;
+  padding:1.5px 3px 2px 3px;
+  border-radius:5px;
+  vertical-align:middle;
+  background-color:deepskyblue;
+}
+
+#g {
+  color:black;
+  padding:1.5px 3.5px 2px 3.5px;
+  border-radius:5px;
+  vertical-align:middle;
+  background-color:limegreen;
+}
+
+#movie {
+  width:200px;
+  height:300px;
+  margin-bottom:5px;
+  border-radius:4px;
+}
+
+#info {
+  vertical-align:top;
+  padding:5px 0px 0px 10px;
+}
+
+#thoughts{
+  height:171px;
+  width:640px;
+  overflow:auto;
+  padding:10px;
+  margin-top:5px;
+  margin-bottom:-12px;
+  border:1px solid green;
+}
+
+@media only screen and (max-width: 800px) {
+  #movie {
+    width:0;
+  }
+  
+  #info {
+    padding:0px;
+  }
+  
+  #thoughts{
+    width:100%;
+    margin-bottom:5px;
+  }
+}
+</style>
+  </body>
+</html>
